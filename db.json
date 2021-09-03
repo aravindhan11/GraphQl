@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "24",
+      "firstName": "aravind",
+      "age": 28,
+      "companyId": "1"
+    },
+    {
+      "id": "11",
+      "firstName": "hanuman",
+      "age": 25,
+      "companyId": "2"
+    },
+    {
+      "id": "21",
+      "firstName": "Rudra",
+      "age": 27,
+      "companyId": "2"
+    },
+    {
+      "firstName": "dddd",
+      "age": 30,
+      "id": "_cz8-Df"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "apple software"
+    },
+    {
+      "id": "2",
+      "name": "google",
+      "description": "google software"
+    }
+  ]
+}
